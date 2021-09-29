@@ -9,3 +9,10 @@ this is fourth commit
 fifth commith 
 
 sixth commit 
+
+
+i am editing this file and Creating a Second file  and commiting both at once 
+to add multiple files am using 
+
+
+git add .
